@@ -1,8 +1,9 @@
----
+---------
 title: "ReadMe"
 output: html_document
 css : style.css
----
+---------
+
 # **Peer Graded Assignment: Getting and Cleaning Data Course Project**
 Submitted by : Antara Saha
 
