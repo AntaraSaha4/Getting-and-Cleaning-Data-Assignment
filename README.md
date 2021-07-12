@@ -1,11 +1,10 @@
----------
-title: "ReadMe"
+---
+title: "Peer Graded Assignment: Getting and Cleaning Data Course Project"
+author: "Antara Saha"
+date: "7/12/2021"
 output: html_document
 css : style.css
----------
-
-# **Peer Graded Assignment: Getting and Cleaning Data Course Project**
-Submitted by : Antara Saha
+---
 
 The repository contain files and scripts required for the cleaning of the data mentioned in below link:
 <http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>.
