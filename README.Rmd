@@ -2,8 +2,9 @@
 title: "Peer Graded Assignment: Getting and Cleaning Data Course Project"
 author: "Antara Saha"
 date: "7/12/2021"
-output: html_document
-keep_md: yes
+output: 
+  html_document:
+    keep_md: true
 ---
 
 The repository contain files and scripts required for the cleaning of the data mentioned in below link:
