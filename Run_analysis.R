@@ -4,6 +4,8 @@ library(dplyr)
 library(tidyr)
 
 ##    Load the data into respective tables:
+setwd("UCI HAR Dataset")
+
 features <- read.table("features.txt",
                        col.names = c("id","functions"))
 activity <- read.table("activity_labels.txt",
