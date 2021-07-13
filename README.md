@@ -1,10 +1,7 @@
----
-title: "ReadMe"
-output: html_document
-css : style.css
----
-
 ## **Peer Graded Assignment: Getting and Cleaning Data Course Project**
+Submitted by: Antara Saha
+
+Date: 07-12-2021
 
 The repository contain files and scripts required for the cleaning of
 the data mentioned in below link:

@@ -1,9 +1,3 @@
----
-title: "CodeBook"
-output: html_document
-css : style.css
----
-
 # **Introduction**:
 
 The purpose of writing this codebook is to describe the variables, the data and any transformations or work that performed to clean up the data mentioned in below link:
@@ -13,6 +7,7 @@ The purpose of writing this codebook is to describe the variables, the data and 
 The above mentioned data collected from the accelerometers from the Samsung Galaxy S smartphone.The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
 # **Dataset**:
+
 From the above mentioned link you will download a zip file. Extract the data into `UCI HAR Dataset` folder.
 The dataset includes the following files:
 =========================================
