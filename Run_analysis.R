@@ -82,4 +82,4 @@ tidy_set <-tidy_data %>%
   group_by(Subject,Activity_Name) %>%
   summarise_all("mean") 
 
-write.table(tidy_set,"tidy_set.txt",row.names = TRUE)
+write.table(tidy_set,"tidy_set.txt",row.names = FALSE)
