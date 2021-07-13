@@ -1,5 +1,8 @@
 ## 1. Merges the training and the test sets to create one data set.
 
+library(dplyr)
+library(tidyr)
+
 ##    Load the data into respective tables:
 features <- read.table("features.txt",
                        col.names = c("id","functions"))
